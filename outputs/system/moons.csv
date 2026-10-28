@@ -1,0 +1,16 @@
+designation,name,radius_km,surface,albedo,density_kg_m3,a_km,e,inc_deg,period_h,major,provenance
+I,,8.0,rock,0.08,2800,24000.0,0.002,0.1,13.5,False,INVENTED (ring shepherd)
+II,,12.0,rock,0.09,2800,31000.0,0.004,0.3,19.8,False,INVENTED
+III,,21.0,rock,0.1,2800,42000.0,0.006,0.4,31.2,False,INVENTED
+IV,Sun Fac,180.0,rock,0.12,2900,60000.0,0.004,0.6,53.4,True,INVENTED name/orbit (major moon)
+V,,6.0,rock,0.1,2600,90000.0,0.01,1.2,98.0,False,INVENTED
+VI,Bahryn,610.0,ice,0.62,1700,120000.0,0.008,0.3,150.9,True,CANON name + icy; INVENTED size/orbit
+VII,Poggle,400.0,rust,0.18,3000,190000.0,0.012,0.9,300.6,True,INVENTED name/orbit (major moon)
+VIII,,15.0,rock,0.07,2400,240000.0,0.02,2.0,426.8,False,INVENTED
+IX,Karina,560.0,rock,0.25,2700,320000.0,0.015,1.4,656.9,True,INVENTED name/orbit (largest moon)
+X,,25.0,rock,0.06,2200,420000.0,0.08,28.0,988.1,False,INVENTED (captured)
+XI,,5.0,rock,0.06,2200,435000.0,0.06,35.0,1041.5,False,INVENTED (captured)
+XII,,9.0,rock,0.05,2200,480000.0,0.15,152.0,1207.2,False,"INVENTED (captured, retrograde)"
+XIII,,3.0,rock,0.05,2200,520000.0,0.1,165.0,1361.2,False,"INVENTED (captured, retrograde)"
+XIV,,11.0,rock,0.07,2200,560000.0,0.15,141.0,1521.3,False,"INVENTED (captured, retrograde)"
+XV,,4.0,rock,0.05,2200,600000.0,0.08,158.0,1687.2,False,"INVENTED (captured, retrograde)"

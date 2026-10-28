@@ -1,0 +1,25 @@
+body,check,value,ok
+Ring,outer edge inside fluid Roche limit,2.90 Rp < 2.97 Rp,True
+I,"Roche < pericentre, apocentre < Hill limit","8,390 km < 23,952 km ; 24,048 km < 468,033 km",True
+II,"Roche < pericentre, apocentre < Hill limit","8,390 km < 30,876 km ; 31,124 km < 468,033 km",True
+III,"Roche < pericentre, apocentre < Hill limit","8,390 km < 41,748 km ; 42,252 km < 468,033 km",True
+IV Sun Fac,"Roche < pericentre, apocentre < Hill limit","16,059 km < 59,760 km ; 60,240 km < 468,033 km",True
+V,"Roche < pericentre, apocentre < Hill limit","8,600 km < 89,100 km ; 90,900 km < 468,033 km",True
+VI Bahryn,"Roche < pericentre, apocentre < Hill limit","19,189 km < 119,040 km ; 120,960 km < 468,033 km",True
+VII Poggle,"Roche < pericentre, apocentre < Hill limit","15,879 km < 187,720 km ; 192,280 km < 468,033 km",True
+VIII,"Roche < pericentre, apocentre < Hill limit","8,833 km < 235,200 km ; 244,800 km < 468,033 km",True
+IX Karina,"Roche < pericentre, apocentre < Hill limit","16,446 km < 315,200 km ; 324,800 km < 468,033 km",True
+X,"Roche < pericentre, apocentre < Hill limit","9,093 km < 386,400 km ; 453,600 km < 468,033 km",True
+XI,"Roche < pericentre, apocentre < Hill limit","9,093 km < 408,900 km ; 461,100 km < 468,033 km",True
+XII,"Roche < pericentre, apocentre < Hill limit","9,093 km < 408,000 km ; 552,000 km < 668,618 km",True
+XIII,"Roche < pericentre, apocentre < Hill limit","9,093 km < 468,000 km ; 572,000 km < 668,618 km",True
+XIV,"Roche < pericentre, apocentre < Hill limit","9,093 km < 476,000 km ; 644,000 km < 668,618 km",True
+XV,"Roche < pericentre, apocentre < Hill limit","9,093 km < 552,000 km ; 648,000 km < 668,618 km",True
+I-II,separation > 2*sqrt(3) mutual Hill radii,"182.2 R_H,mutual",True
+II-III,separation > 2*sqrt(3) mutual Hill radii,"125.7 R_H,mutual",True
+III-IV,separation > 2*sqrt(3) mutual Hill radii,"18.1 R_H,mutual",True
+IV-V,separation > 2*sqrt(3) mutual Hill radii,"20.3 R_H,mutual",True
+V-VI,separation > 2*sqrt(3) mutual Hill radii,"5.0 R_H,mutual",True
+VI-VII,separation > 2*sqrt(3) mutual Hill radii,"7.0 R_H,mutual",True
+VII-VIII,separation > 2*sqrt(3) mutual Hill radii,"4.7 R_H,mutual",True
+VIII-IX,separation > 2*sqrt(3) mutual Hill radii,"4.4 R_H,mutual",True

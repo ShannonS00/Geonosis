@@ -1,0 +1,22 @@
+# Python environment and caches
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# IRDB instrument packages (~94 MB) - re-download with the Quick start command
+inst_pkgs/
+
+# Simulated FITS frames (~500 MB) - regenerate with the campaign scripts.
+# PNG figures, CSV/JSON summaries and report.html stay tracked.
+outputs/**/*.fits
+
+# Editors and OS
+.DS_Store
+.vscode/
+.idea/
+*.swp

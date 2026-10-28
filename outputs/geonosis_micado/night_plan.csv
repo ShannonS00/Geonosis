@@ -1,0 +1,8 @@
+block,target,start_h,end_h,alt_deg,phase_deg,distance_km,ang_diam_arcsec,track_rate_arcsec_s,m_per_pixel_4mas,mode,filters,nd_filter,dit_s,ndit
+XI full disc H+Ks,XI,0.0,0.75,54.5,85,408578,5.0,0.25,7.92,SCAO + IMG_4mas,"H,Ks",ND3,33.16,9
+Karina Ks,Karina,1.92,2.42,75.9,42,313078,737.9,0.35,6.07,SCAO + IMG_4mas,Ks,ND3,12.68,5
+Bahryn zoom 1.5mas,Bahryn,2.42,2.92,75.2,37,114987,2188.5,1.9,2.23,SCAO + IMG_1.5mas,Ks,ND3,60.0,1
+Bahryn mosaic Ks,Bahryn,2.92,3.92,77.2,35,114966,2188.9,1.9,2.23,SCAO + IMG_4mas,Ks,ND3,12.26,5
+Bahryn ice map,Bahryn,3.92,4.92,73.7,34,115081,2186.7,1.91,2.23,SCAO + IMG_4mas,"xH1,xH2,xK1,xK2",ND3,21.63,6
+Sun Fac Ks,Sun Fac,8.17,8.67,77.3,28,54396,1365.1,6.22,1.05,SCAO + IMG_4mas,Ks,ND3,30.23,2
+Poggle Ks,Poggle,8.67,9.17,78.3,32,186646,884.1,0.85,3.62,SCAO + IMG_4mas,Ks,ND3,29.37,2
